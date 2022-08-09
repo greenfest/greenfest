@@ -7,21 +7,16 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 ### :man_technologist: About Me :
 
-I am a beginner frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a beginner Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-:telescope: I am currently training as a front-end developer in Geekbrains.
+:telescope: I am currently training as a Frontend Developer in Geekbrains.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools (In the process of studying) :
+### :hammer_and_wrench: Languages and Tools (Some in the process of studying) :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
